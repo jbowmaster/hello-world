@@ -1,2 +1,2 @@
 # hello-world
-practice
+practice editing a file and working with the GitHub API.
